@@ -1,0 +1,15 @@
+# LangChain
+langchain-community==0.4.1
+langchain-text-splitters==1.1.1
+langchain-openai==1.1.10
+langchain-core==1.2.17
+ 
+# Vector Store
+chromadb==1.5.4
+ 
+# PDF Loader dependency
+pypdf==6.9.0
+ 
+# UI
+streamlit==1.55.0
+ 
